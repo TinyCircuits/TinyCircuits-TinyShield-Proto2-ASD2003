@@ -1,7 +1,7 @@
 # TinyCircuits TinyShield Proto2 Board
-# ASD2003 Rev1
+# ASD2003 Rev3
 
-These are the design files for the TinyCircuits ASD2003 Rev 1 PCB.  This is a Tiny shield board (Square Version, 20mm x 20mm, or Circular 20mm diameter) that has some of the shield signals brought out to 0.1" spaced holes. 
+These are the design files for the TinyCircuits ASD2003 Rev 3 PCB.  This is a Tiny shield board (Square Version, 20mm x 20mm, or Circular 20mm diameter) that has some of the shield signals brought out to 0.1" spaced holes. 
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
