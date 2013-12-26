@@ -10734,7 +10734,7 @@
 <sheet>
 <plain>
 <text x="248.92" y="187.96" size="3.81" layer="94" font="vector">TinyShield Expansion - Bottom</text>
-<text x="340.868" y="17.272" size="3.556" layer="94" font="vector">TinyShield - Proto3</text>
+<text x="340.868" y="17.272" size="3.556" layer="94" font="vector">TinyShield - Proto2</text>
 <text x="327.152" y="6.35" size="3.556" layer="94" font="vector">AS-SCH-ASD2003</text>
 <text x="416.56" y="6.858" size="3.556" layer="94" font="vector">3</text>
 <text x="304.8" y="165.354" size="1.778" layer="91">IOREF</text>
